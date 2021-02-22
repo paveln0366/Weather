@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="show_weather">Показать погоду</string>
+    <string name="input_city">Введите город или индекс</string>
+    <string name="image">Картинка</string>
+    <string name="temperature">Температура</string>
+    <string name="outside">На улице</string>
+    <string name="correct_data">Введите корректные данные</string>
+</resources>
