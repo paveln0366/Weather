@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Weather</string>
+    <string name="show_weather">Показать погоду</string>
+    <string name="input_city">Город или индекс</string>
 </resources>
